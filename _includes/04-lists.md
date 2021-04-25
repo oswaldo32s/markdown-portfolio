@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Sushi
+* Tacos
+* Pizza
+* I dont know what else to add
